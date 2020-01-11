@@ -55,6 +55,7 @@ class Song
         end
       end
       artist_count
+      binding.pry
   end
 
 
